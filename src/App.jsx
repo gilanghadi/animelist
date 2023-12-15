@@ -1,5 +1,5 @@
 import "./App.css";
-import { SpeedInsights } from "@vercel/speed-insights/next";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import RouteApp from "./routes";
 
 function App() {
